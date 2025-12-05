@@ -1,0 +1,47 @@
+{
+  "stock_name": {
+    "num_classes": 2437,
+    "classes_sample": [
+      "AAN",
+      "AAOI",
+      "AAP",
+      "AAPL",
+      "AAU",
+      "AAWW",
+      "AAXJ",
+      "AB",
+      "ABB",
+      "ABBV"
+    ]
+  },
+  "sector": {
+    "num_classes": 12,
+    "classes_sample": [
+      "Basic Materials",
+      "Communication Services",
+      "Consumer Cyclical",
+      "Consumer Defensive",
+      "Energy",
+      "Financial Services",
+      "Healthcare",
+      "Industrials",
+      "Real Estate",
+      "Technology"
+    ]
+  },
+  "industry": {
+    "num_classes": 60,
+    "classes_sample": [
+      "Advertising Agencies",
+      "Aerospace & Defense",
+      "Agricultural Inputs",
+      "Airlines",
+      "Auto Manufacturers",
+      "Banks - Diversified",
+      "Banks - Regional",
+      "Beverages - Brewers",
+      "Beverages - Non-Alcoholic",
+      "Biotechnology"
+    ]
+  }
+}
