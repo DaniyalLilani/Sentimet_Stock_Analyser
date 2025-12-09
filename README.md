@@ -17,7 +17,8 @@ The goal is to simulate **real-world trading-time inference**, where only inform
 ## How to run [IMPORTANT!]
 Running FINbert is computationally very expensive and without CUDA can take many hours. We have therefore provided an ```after_fin_finance.csv``` that has the finbert sentiment values from a previous run along with encoded ```stock_name``` ```sector``` and ```industry```
 The notebook has been set up in a way for you to run from Step 6
-Please use the following Link [(https://drive.google.com/file/d/1CB1DHfaOrY_9MYbxR-6kCGBXgBnBYAv5/view?usp=sharing)] to download after_fin_finance.
+Please use the following Link https://drive.google.com/file/d/1CB1DHfaOrY_9MYbxR-6kCGBXgBnBYAv5/view?usp=sharing to download after_fin_finance.
+For reference, finance.csv is avalible here as well (pre FINbert) https://drive.google.com/file/d/11XG0r3RdwNHESDqUwZvZGK5W3SNETg1P/view?usp=sharing
 
 
 ## 🎯 Prediction Objective
@@ -131,3 +132,4 @@ A full **mock deployment pipeline** simulates real-world usage:
 Daniyal Lilani (100867494)
 Aryan Khashefi-Aazam
 Abullah Mustafa
+
