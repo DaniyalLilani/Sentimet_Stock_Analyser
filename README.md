@@ -13,6 +13,10 @@ The model predicts the **direction and magnitude of stock price movement** short
 
 The goal is to simulate **real-world trading-time inference**, where only information available at the time of news release is used — avoiding any form of data leakage.
 
+## Code Walkthrough
+https://www.youtube.com/watch?v=y86jHKfgqyw \
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/y86jHKfgqyw/0.jpg)](https://www.youtube.com/watch?v=y86jHKfgqyw)
+
 ---
 ## How to run [IMPORTANT!]
 Running FINbert is computationally very expensive and without CUDA can take many hours. We have therefore provided an ```after_fin_finance.csv``` that has the finbert sentiment values from a previous run along with encoded ```stock_name``` ```sector``` and ```industry```
@@ -132,4 +136,5 @@ A full **mock deployment pipeline** simulates real-world usage:
 Daniyal Lilani
 Aryan Kashefi-Aazam
 Abullah Mustafa
+
 
