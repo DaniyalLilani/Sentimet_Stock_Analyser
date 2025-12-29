@@ -129,7 +129,7 @@ A full **mock deployment pipeline** simulates real-world usage:
 - Results are compared against actual outcomes
 
 ### Contributors
-Daniyal Lilani (100867494)
-Aryan Khashefi-Aazam
+Daniyal Lilani
+Aryan Kashefi-Aazam
 Abullah Mustafa
 
